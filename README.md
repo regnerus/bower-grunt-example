@@ -1,3 +1,5 @@
+**Example Code for the article [Managing Assets in a Laravel project with Git using Grunt.JS and Bower](http://printr.nl/blog/2014/08/managing-assets-in-a-laravel-project-with-git-using-grunt-js-and-bower-2/)**
+
 #Managing Assets in a Laravel project with Git using Grunt.JS and Bower
 
 Front-end development has undergone a major transformation in the recent years. Frameworks like [AngularJS](https://angularjs.org/) are pushing the limits of what a modern webbrowser can do. Therefore accomplishing things thought to be impossible three years ago.
@@ -180,4 +182,6 @@ To run these commands we use another Git Hook: `pre-commit`. Before any commits 
 
 ##Finalizing
 
-I decided to add (almost) the complete `Gruntfile.js` for extra reference.
+I decided to upload an example of this setup to Github, for extra reference.
+
+Available on Github here: https://github.com/regnerus/bower-grunt-example
