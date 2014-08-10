@@ -1,0 +1,26 @@
+{
+  "name": "example-Example",
+  "version": "0.0.0",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "jquery": "latest",
+    "angular": "latest",
+    "underscore": "latest",
+    "animate-sass": "latest",
+    "modernizr": "latest",
+    "inuit-starter-kit": "~0.2.3"
+  },
+  "authors": [
+    "Bouke Regnerus <bouke.regnerus@gmail.com>"
+  ],
+  "license": "MIT"
+}

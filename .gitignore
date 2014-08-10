@@ -1,0 +1,12 @@
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+.sass-cache
+.htaccess
+app/assets/components/
+public/assets/
+node_modules/
+app/reports/
